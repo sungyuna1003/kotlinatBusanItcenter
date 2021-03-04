@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ch07_1_menu_option"
